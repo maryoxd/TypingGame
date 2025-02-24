@@ -4,7 +4,7 @@
 
 ## 🎯 How the Game Works  
 1. The game **displays random words** on the screen.  
-2. The player must **type each word correctly** and press **Enter**.  
+2. The player must **type each word correctly**.
 3. If the input is correct, the score increases; otherwise, an error is recorded.  
 4. The game runs for a **fixed duration**, and the final results are displayed.  
 
